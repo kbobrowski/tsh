@@ -1,4 +1,4 @@
-# tesh - deep learning shell
+# tsh - deep learning shell
 
 tesh is a wrapper around Docker image which provides recent deep learning tools. It mounts current directory and X11 socket inside a container.
 
@@ -25,4 +25,4 @@ nvidia-docker2.
 
 ## Installation
 
-Simply put tesh file somewhere in the PATH, and ```chmod +x tesh```.
+Simply put tsh file somewhere in the PATH, and ```chmod +x tsh```.
