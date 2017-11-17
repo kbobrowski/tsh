@@ -1,6 +1,6 @@
 # tsh - deep learning shell
 
-tesh is a wrapper around Docker image which provides recent deep learning tools. It mounts current directory and X11 socket inside a container.
+tsh is a wrapper around Docker image which provides recent deep learning tools. It mounts current directory and X11 socket inside a container.
 
 ## List of software
 
