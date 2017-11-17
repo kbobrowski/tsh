@@ -1,6 +1,6 @@
 # tsh - deep learning shell
 
-tsh is a wrapper around Docker image which provides recent deep learning tools. It mounts current directory and X11 socket inside a container.
+tsh is a wrapper around Docker image which provides recent deep learning tools. It mounts current directory and X11 socket inside a container. zsh shell with modern prompt ([pure](https://github.com/sindresorhus/pure)) is provided for git support.
 
 ![alt text](screenshot.png)
 
