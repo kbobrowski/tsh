@@ -1,4 +1,4 @@
-FROM deep-learning-essentials
+FROM kbobrowski/docker-deep-learning-essentials
 
 RUN apt-get update && apt install -y \
         zsh \
