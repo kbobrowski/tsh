@@ -10,7 +10,7 @@ tsh is a wrapper around Docker image which provides recent deep learning tools. 
 - CUDA 8.0
 - cuDNN 6
 - tensorflow 1.3
-- keras
+- keras 2.1.1
 - pytorch 0.2
 - OpenCV 3.3.1 (GTK support)
 - ffmpeg
