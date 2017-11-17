@@ -28,4 +28,4 @@ nvidia-docker2.
 
 ## Installation
 
-Simply put tsh file somewhere in the PATH, and ```chmod +x tsh```.
+Make ```tsh``` executable by ```chmod +x tsh``` and make sure that ```tsh``` is copied / linked somewhere in the PATH (e.g. ```/usr/bin```)
