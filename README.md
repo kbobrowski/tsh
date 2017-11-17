@@ -2,7 +2,7 @@
 
 tsh is a wrapper around Docker image which provides recent deep learning tools. It mounts current directory and X11 socket inside a container.
 
-![alt text]('screenshot.png')
+![alt text](screenshot.png)
 
 ## List of software
 
