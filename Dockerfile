@@ -21,7 +21,7 @@ RUN cd / \
     && sed -i 's/\"robbyrussell\"/\"\"/g' /home/docker/.zshrc \
     && echo 'autoload -U promptinit; promptinit' >> /home/docker/.zshrc \
     && echo 'prompt pure' >> /home/docker/.zshrc \
-    && echo 'PROMPT="(tesh) "$PROMPT' >> /home/docker/.zshrc \
+    && echo 'PROMPT="(tsh) "$PROMPT' >> /home/docker/.zshrc \
     && echo 'export EDITOR=vim' >> /home/docker/.zshrc \
     && echo 'alias python=python3' >> /home/docker/.zshrc \
     && echo 'alias pip=pip3' >> /home/docker/.zshrc
