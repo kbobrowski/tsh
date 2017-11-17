@@ -6,6 +6,7 @@ tsh is a wrapper around Docker image which provides recent deep learning tools. 
 
 ## List of software
 
+- Ubuntu 16.04
 - CUDA 8.0
 - cuDNN 6
 - tensorflow 1.3
